@@ -1,0 +1,5 @@
+This project is an implementation of an RPC using a udp framework.
+We used the UDP to implement a RPC like handshake mechanism, with the server sending acknowledgement when it recieves on going requests. 
+The files that we worked on are : Client.c and Server.c. 
+Interfaces regarding the basic functionality we were required to implement were provided to us. 
+The format of sending and recieving the packets is explained in the comments of the respective files( since server and client) send and recieve different types of packages.
